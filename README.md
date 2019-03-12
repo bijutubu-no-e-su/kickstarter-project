@@ -1,2 +1,2 @@
-# MLseminor
-repository for MLseminor
+# kickstarter-project
+repository for kickstarter-project
